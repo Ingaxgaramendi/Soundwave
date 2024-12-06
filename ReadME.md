@@ -76,6 +76,38 @@ git clone https://github.com/usuario/repositorio.git
 
 ---
 
+**Pasos para ejecutar un código de GitHub sin tener Git instalado:**
+
+**1. Descargar el código desde GitHub**
+
+Ve al repositorio de GitHub que deseas ejecutar.
+Haz clic en el botón verde "Code" y selecciona "Download ZIP".
+Esto descargará el repositorio como un archivo comprimido .zip en tu PC.
+
+**2. Descomprimir el archivo ZIP**
+
+Una vez descargado el archivo .zip, descomprímelo en una carpeta de tu elección.
+**3. Instalar Python**
+
+Si no tienes Python instalado en tu PC, ve a la página oficial de Python y sigue las instrucciones para instalarlo. Asegúrate de marcar la opción "Add Python to PATH" durante la instalación.
+
+**4. Abrir la terminal o línea de comandos**
+Dependiendo de tu sistema operativo:
+
+Windows: Abre "Símbolo del sistema" o "PowerShell".
+macOS/Linux: Abre la terminal.
+
+**5. Navegar a la carpeta del repositorio**
+Una vez que hayas descomprimido el archivo .zip, abre la terminal y usa el comando cd para navegar a la carpeta donde descomprimiste el repositorio. Por ejemplo:
+
+```bash
+Copiar código
+cd ruta/del/repositorio
+Reemplaza ruta/del/repositorio con la ruta correcta de la carpeta en tu PC.
+
+ejm:
+C:\Users\Alumno\Downloads\SOUNDWAVE DATA BASE
+
 ## 🚀 **Uso**
 
 1. **Ejecuta la aplicación**:
