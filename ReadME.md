@@ -142,7 +142,7 @@ class TestSoundWaveCRUD(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 ```
-## 📸 **Capturas**
+## 📸 **Capturas Caso de prueba** 
 
 ![image](https://github.com/user-attachments/assets/f3b6d8ef-7175-4423-bb8e-aee075e34a63)
 
