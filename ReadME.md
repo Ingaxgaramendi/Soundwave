@@ -144,6 +144,8 @@ if __name__ == "__main__":
 ```
 ## 📸 **Capturas**
 
+![image](https://github.com/user-attachments/assets/f3b6d8ef-7175-4423-bb8e-aee075e34a63)
+
 ## 🛠️ **Tecnologías**
 
 - **Lenguaje**: Python 3.8+
@@ -155,11 +157,11 @@ if __name__ == "__main__":
 ## 📸 **Capturas**
 
 ### Menú Principal  
-![Menú Principal]()
+![image](https://github.com/user-attachments/assets/0d503346-8cb5-4594-9db2-557cf5a271d9)
+
 
 ### Crear Evento  
-![Crear Evento](https://via.placeholder.com/800x400?text=Creaci%C3%B3n+de+Eventos)
+![image](https://github.com/user-attachments/assets/69ac043a-d601-4148-9a79-e2828ced5234)
 
-### Mostrar Eventos  
-![Mostrar Eventos](https://via.placeholder.com/800x400?text=Listado+de+Eventos)
+
 
