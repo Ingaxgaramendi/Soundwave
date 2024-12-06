@@ -71,8 +71,9 @@ Si no tienes Git instalado, descárgalo desde [aquí](https://git-scm.com/downlo
 ## 2. Clonar el repositorio
 Abre la terminal o línea de comandos y ejecuta el siguiente comando:
 
-```bash
+ ```bash
 git clone https://github.com/usuario/repositorio.git
+```
 
 ---
 
@@ -107,7 +108,7 @@ Reemplaza ruta/del/repositorio con la ruta correcta de la carpeta en tu PC.
 
 ejm:
 C:\Users\Alumno\Downloads\SOUNDWAVE DATA BASE
-
+```
 ## 🚀 **Uso**
 
 1. **Ejecuta la aplicación**:
