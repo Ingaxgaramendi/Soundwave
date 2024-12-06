@@ -192,5 +192,8 @@ if __name__ == "__main__":
 ### Crear Evento  
 ![image](https://github.com/user-attachments/assets/69ac043a-d601-4148-9a79-e2828ced5234)
 
+**PRESENTACION**
+
+https://www.canva.com/design/DAGYWp6Xby8/K-fhg-R5mJCi5zhyfdOssg/edit
 
 
