@@ -65,8 +65,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/SoundWaveCRUD.git
-   cd SoundWaveCRUD
+   git clone https://github.com/Ingaxgaramendi/SoundwaveCRUD/.git
+   cd SOUNDWAVE-DATA-BASE
    ```
 
 2. **Requisitos previos**:
