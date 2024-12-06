@@ -61,21 +61,18 @@ SoundWaveCRUD/
 
 ## ⚙️ **Instalación**
 
-Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina:
+# Guía para ejecutar el código desde GitHub
 
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/Ingaxgaramendi/SoundwaveCRUD/.git
-   cd SOUNDWAVE-DATA-BASE
-   ```
+Sigue estos pasos para clonar y ejecutar el código de este repositorio en tu PC.
 
-2. **Requisitos previos**:
-   - Python 3.8 o superior instalado.
+## 1. Instalar Git
+Si no tienes Git instalado, descárgalo desde [aquí](https://git-scm.com/downloads) y sigue las instrucciones.
 
-3. **Ejecutar la aplicación**:
-   ```bash
-   python main.py
-   ```
+## 2. Clonar el repositorio
+Abre la terminal o línea de comandos y ejecuta el siguiente comando:
+
+```bash
+git clone https://github.com/usuario/repositorio.git
 
 ---
 
