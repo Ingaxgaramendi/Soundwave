@@ -111,18 +111,13 @@ C:\Users\Alumno\Downloads\SOUNDWAVE DATA BASE
 ```
 ## 🚀 **Uso**
 
-1. **Ejecuta la aplicación**:
-   ```bash
-   python main.py
-   ```
-
-2. **Interfaz interactiva**:
+1. **Interfaz interactiva**:
    - Usa las opciones del menú principal para gestionar eventos:
      - Mostrar todos los eventos.
      - Buscar un evento por ID.
      - Crear, actualizar o eliminar eventos.
 
-3. **Ejemplo de menú**:
+2. **Ejemplo de menú**:
    ```
    === Menú Principal ===
    1. Mostrar todos los eventos 📋
